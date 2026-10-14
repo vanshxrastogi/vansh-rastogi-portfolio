@@ -1,0 +1,330 @@
+{
+  "profile": {
+    "name": "Vansh Rastogi",
+    "email": "vanshrastogimvm@gmail.com",
+    "whatsapp": "918840812993",
+    "instagram": "https://www.instagram.com/vxnsh.rastogi/",
+    "resume": "/media/Vansh-Rastogi-Resume.pdf",
+    "portrait": "/media/owner-portrait-square.png",
+    "socialLinks": [
+      {
+        "type": "LINKEDIN",
+        "url": "https://www.linkedin.com/in/vansh-rastogi-b9b688199?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "position": 5
+      },
+      {
+        "type": "PINTEREST",
+        "url": "https://www.pinterest.com/vanshh04",
+        "position": 2
+      },
+      {
+        "type": "SNAPCHAT",
+        "url": "https://www.snapchat.com/add/vanshxrastogi",
+        "position": 1
+      }
+    ],
+    "logo": "/media/vansh-rastogi-logo.png"
+  },
+  "hero": {
+    "video": "/media/hero-loop-5s.mp4",
+    "mobileVideo": null,
+    "poster": "/media/hero-poster.jpg",
+    "position": "50% 50%"
+  },
+  "showreel": null,
+  "featuredProjectId": null,
+  "projects": [
+    {
+      "id": "memory-walk",
+      "title": "Memory Walk — Creative Reel",
+      "category": "REELS",
+      "role": "Creative Direction & AI Filmmaking",
+      "duration": "00:50",
+      "aspectRatio": "9:16",
+      "video": "/media/memory-walk-web.mp4",
+      "poster": "/media/memory-walk-poster.jpg",
+      "description": "A creative AI visual experiment.",
+      "status": "published"
+    },
+    {
+      "id": "a-story-of-us",
+      "title": "Pre-Wedding Film",
+      "category": "PRE-WEDDING",
+      "role": "Creative Direction & AI Filmmaking",
+      "duration": "01:40",
+      "aspectRatio": "16:9",
+      "video": "/media/prewedding.mp4",
+      "poster": "/media/prewedding-poster.jpg",
+      "description": "A cinematic pre-wedding shoot.",
+      "status": "published"
+    },
+    {
+      "id": "ferrari-f40-velvet",
+      "title": "Ferrari F40 — CGI Ad",
+      "category": "CGI & PRODUCT",
+      "role": "Creative Direction & AI Visuals",
+      "duration": "00:10",
+      "aspectRatio": "9:16",
+      "video": "/media/ferrari-f40-velvet.mp4",
+      "poster": "/media/ferrari-f40-poster.jpg",
+      "description": "A conceptual CGI automotive advertisement with a velvet-red visual treatment.",
+      "status": "published"
+    },
+    {
+      "id": "storylab-brand-ad",
+      "title": "Brand Film — Creative Concept",
+      "category": "AI COMMERCIALS",
+      "role": "AI Filmmaking",
+      "duration": "00:28",
+      "aspectRatio": "16:9",
+      "video": "/media/storylab-brand-ad.mp4",
+      "poster": "/media/storylab-brand-poster.jpg",
+      "description": "An AI brand-film concept featuring cinematic product and visual storytelling.",
+      "status": "published"
+    },
+    {
+      "id": "saat-din-baki",
+      "title": "सात दिन बाकी — Part 1",
+      "category": "MICRO DRAMA",
+      "role": "AI Filmmaking",
+      "duration": "00:52",
+      "aspectRatio": "9:16",
+      "video": "/media/saat-din-baki-trailer.mp4",
+      "poster": "/media/saat-din-baki-poster.jpg",
+      "description": "सात दिन बाकी — Part 1 of a vertical micro-drama.",
+      "status": "published"
+    },
+    {
+      "id": "makeout-x",
+      "title": "MakeOut X — Brand Ad",
+      "category": "BRAND FILMS",
+      "role": "AI Filmmaking",
+      "duration": "00:48",
+      "aspectRatio": "16:9",
+      "sourceAspectRatio": "16:9",
+      "video": "/media/makeout-x-hd.mp4",
+      "poster": "/media/makeout-x-poster.jpg",
+      "description": "MakeOut X — a cinematic brand advertisement.",
+      "status": "published"
+    },
+    {
+      "id": "ek-darwaza-do-duniya",
+      "title": "एक दरवाज़ा दो दुनिया",
+      "category": "REELS",
+      "role": "AI Filmmaking & Creative Direction",
+      "duration": "00:37",
+      "aspectRatio": "9:16",
+      "video": "/media/ek-darwaza-do-duniya-hd.mp4",
+      "poster": "/media/ek-darwaza-do-duniya-poster.jpg",
+      "description": "An imaginary AI reel exploring a doorway between two worlds.",
+      "status": "published"
+    },
+    {
+      "id": "last-bus-creative",
+      "title": "The Last Bus — Creative Reel",
+      "category": "REELS",
+      "role": "AI Filmmaking & Creative Direction",
+      "duration": "00:30",
+      "aspectRatio": "9:16",
+      "video": "/media/last-bus-creative.mp4",
+      "poster": "/media/last-bus-creative-poster.jpg",
+      "description": "An imagined AI action sequence set on a night bus, with cinematic lighting and character-driven tension.",
+      "status": "published"
+    },
+    {
+      "id": "vice-city-dreams",
+      "title": "Vice City Dreams — GTA-Inspired Reel",
+      "category": "REELS",
+      "role": "AI Filmmaking & Creative Direction",
+      "duration": "00:46",
+      "aspectRatio": "9:16",
+      "video": "/media/vice-city-dreams.mp4",
+      "poster": "/media/vice-city-dreams-poster.jpg",
+      "description": "An independent AI visual concept inspired by GTA aesthetics: palm-lined streets, vivid city colour and cinematic driving scenes.",
+      "status": "published"
+    },
+    {
+      "id": "maggi-two-minute-story",
+      "title": "Maggi — AI Brand Concept",
+      "category": "BRAND FILMS",
+      "role": "AI Filmmaking & Creative Direction",
+      "duration": "00:43",
+      "aspectRatio": "16:9",
+      "video": "/media/maggi-two-minute-story.mp4",
+      "poster": "/media/maggi-two-minute-story-poster.jpg",
+      "description": "An independently created AI brand concept for Maggi, combining an Indian story setting with a product-led finish.",
+      "status": "published"
+    },
+    {
+      "id": "rooftop-after-dark",
+      "title": "Rooftop After Dark — Spider-Man-Inspired",
+      "category": "REELS",
+      "role": "AI Filmmaking & Creative Direction",
+      "duration": "00:12",
+      "aspectRatio": "16:9",
+      "video": "/media/rooftop-after-dark.mp4",
+      "poster": "/media/rooftop-after-dark-poster.jpg",
+      "description": "An imagined romantic rooftop scene inspired by Spider-Man cinema, set against a glowing night skyline.",
+      "status": "published"
+    },
+    {
+      "id": "navyug-public-school",
+      "title": "Navyug Public School — Brand Film",
+      "category": "BRAND FILMS",
+      "role": "AI Filmmaking",
+      "duration": "01:36",
+      "aspectRatio": "16:9",
+      "video": "/media/navyug-public-school.mp4",
+      "poster": "/media/navyug-public-school-poster.jpg",
+      "description": "A narrative-led school advertisement for Navyug Public School, combining character scenes with a school identity end card.",
+      "status": "published"
+    },
+    {
+      "id": "lyon-weaved-bowler-bag",
+      "title": "Classicuir — Lyon Bowler Bag UGC Ad",
+      "category": "BRAND FILMS",
+      "role": "AI Filmmaking & Product Storytelling",
+      "duration": "01:03",
+      "aspectRatio": "4:5",
+      "video": "/media/lyon-weaved-bowler-bag.mp4",
+      "poster": "/media/lyon-weaved-bowler-bag-poster.jpg",
+      "description": "An AI-created UGC-style product ad for the Classicuir Lyon Weaved Bowler Bag, showcasing the woven finish, everyday styling and interior details.",
+      "status": "published"
+    }
+  ],
+  "services": [
+    [
+      "AI Films & Brand Stories",
+      "Cinematic narratives shaped through concept, script, shot design and consistent visual worlds. Finished with editing, sound and color."
+    ],
+    [
+      "AI Commercials & Social Ads",
+      "Brand-focused films with clear hooks, product storytelling and platform-ready cuts for social and digital campaigns."
+    ],
+    [
+      "Creative Direction & Storyboarding",
+      "Creative concepts, scripts, moodboards and storyboards that define the look, performance and rhythm before production."
+    ],
+    [
+      "CGI, VFX & Product Visuals",
+      "Distinctive product films, automotive concepts and visual effects built around controlled lighting, materials and composition."
+    ],
+    [
+      "Character & World Development",
+      "Reference-driven character and environment development, maintaining identity, wardrobe and visual continuity across scenes."
+    ],
+    [
+      "Editing & Finishing",
+      "Thoughtful pacing, compositing, sound design, color grading and delivery in the formats your project needs."
+    ],
+    [
+      "AI Micro Drama",
+      "Short episodic stories with recurring characters, expressive performances and carefully connected scenes."
+    ],
+    [
+      "Pre-Wedding Films",
+      "Cinematic pre-wedding stories with an intentional visual mood, emotional pacing and tailored horizontal or vertical delivery."
+    ],
+    [
+      "AI Music & Sound",
+      "Suno-assisted music concepts, voice direction and sound design selected to complement the story and support the final edit."
+    ]
+  ],
+  "tools": [
+    {
+      "name": "Higgsfield",
+      "group": "Motion & Cinema",
+      "logo": "/logos/higgsfield.svg",
+      "url": "https://higgsfield.ai/"
+    },
+    {
+      "name": "Seedance",
+      "group": "Motion & Cinema",
+      "logo": "/logos/seedance.ico",
+      "url": "https://seed.bytedance.com/en/"
+    },
+    {
+      "name": "Runway",
+      "group": "Motion & Cinema",
+      "logo": "/logos/runway.png",
+      "url": "https://runway.com/"
+    },
+    {
+      "name": "MiniMax",
+      "group": "Motion & Cinema",
+      "logo": "/logos/minimax.webp",
+      "url": "https://www.minimax.io/"
+    },
+    {
+      "name": "Google Flow",
+      "group": "Motion & Cinema",
+      "logo": "/logos/flow.png",
+      "url": "https://labs.google/fx/tools/flow"
+    },
+    {
+      "name": "Kling AI",
+      "group": "Motion & Cinema",
+      "logo": "/logos/kling.png",
+      "url": "https://klingai.com/"
+    },
+    {
+      "name": "ChatGPT",
+      "group": "Images & Concepts",
+      "logo": "/logos/chatgpt.svg",
+      "url": "https://chatgpt.com/"
+    },
+    {
+      "name": "Midjourney",
+      "group": "Images & Concepts",
+      "logo": "/logos/midjourney.png",
+      "url": "https://www.midjourney.com/"
+    },
+    {
+      "name": "ComfyUI",
+      "group": "Images & Concepts",
+      "logo": "/logos/comfyui.png",
+      "url": "https://comfy.org/"
+    },
+    {
+      "name": "ElevenLabs",
+      "group": "Voice & Music",
+      "logo": "/logos/elevenlabs.svg",
+      "url": "https://elevenlabs.io/"
+    },
+    {
+      "name": "Suno",
+      "group": "Voice & Music",
+      "logo": "/logos/suno.png",
+      "url": "https://suno.com/"
+    },
+    {
+      "name": "DaVinci Resolve",
+      "group": "Post & Finishing",
+      "logo": "/logos/davinciresolve.svg",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve"
+    },
+    {
+      "name": "Blender",
+      "group": "Post & Finishing",
+      "logo": "/logos/blender.svg",
+      "url": "https://www.blender.org/"
+    },
+    {
+      "name": "Premiere Pro",
+      "group": "Post & Finishing",
+      "logo": "/logos/adobepremierepro.svg",
+      "url": "https://www.adobe.com/products/premiere.html"
+    }
+  ],
+  "background": "/media/red-background.png",
+  "categories": [
+    "AI COMMERCIALS",
+    "BRAND FILMS",
+    "ORIGINAL FILMS",
+    "MICRO DRAMA",
+    "PRE-WEDDING",
+    "CGI & PRODUCT",
+    "REELS"
+  ],
+  "instagramReels": []
+}

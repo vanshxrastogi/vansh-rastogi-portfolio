@@ -42,6 +42,3 @@ SEO and monetization preparation (14 October 2026):
 - AdSense review, content rights, consent requirements and Google indexing must be checked before monetization. These checks cannot be satisfied by metadata alone.
 - New projects must regenerate film pages and sitemap when their descriptions or files change.
 - The newly attached AD.mp4 is Navyug Public School, 96 seconds, 1920x1080. No bag UGC attachment was provided in this turn.
-
-
-GitHub backup: full static website in `dist/`. Netlify publish directory: `dist`; build command: none. No credentials are stored. Keep media paths unchanged when updating.
