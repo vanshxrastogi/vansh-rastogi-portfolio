@@ -1,0 +1,437 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 36,
+    "git_blob_sha": "684fd0eedfac6a07bae876ed930dab12286f51f0"
+  },
+  {
+    "path": "README.md",
+    "bytes": 5453,
+    "git_blob_sha": "d78f68e33b22f43d2629169dd9c584df036837b5"
+  },
+  {
+    "path": "netlify.toml",
+    "bytes": 230,
+    "git_blob_sha": "af7d66650b97a47da1735f24da20af02f8b16f12"
+  },
+  {
+    "path": ".openai/hosting.json",
+    "bytes": 106,
+    "git_blob_sha": "60edf22855b7fa263b6092291b785d90d364993b"
+  },
+  {
+    "path": "scripts/validate.py",
+    "bytes": 830,
+    "git_blob_sha": "1bcd48106a3a29f0edbafeb7b2e9400e3a9658c1"
+  },
+  {
+    "path": "dist/icon-512.png",
+    "bytes": 195470,
+    "git_blob_sha": "5182078de58961278f66769e22f35ee9bf9730a1"
+  },
+  {
+    "path": "dist/app.js",
+    "bytes": 15638,
+    "git_blob_sha": "83389073d22f6101e7f15ecfc94995ff705ca7b5"
+  },
+  {
+    "path": "dist/thanks.html",
+    "bytes": 748,
+    "git_blob_sha": "bad0d1d52d3cdac993ca9800b9244c1ad080508d"
+  },
+  {
+    "path": "dist/sitemap.xml",
+    "bytes": 1785,
+    "git_blob_sha": "73c5dc17f475d5ec85eac6be6ebf0904e0077bf6"
+  },
+  {
+    "path": "dist/favicon.svg",
+    "bytes": 327,
+    "git_blob_sha": "fc6a89acc0ec3b06ec54396817f85634afcafae7"
+  },
+  {
+    "path": "dist/favicon-vr.png",
+    "bytes": 1097253,
+    "git_blob_sha": "36de2b0c517a2e0b73ec2d5aea8c7ba827b112f5"
+  },
+  {
+    "path": "dist/terms.html",
+    "bytes": 2955,
+    "git_blob_sha": "9a68d02d5aecb0e292b6d6173a47ba992d078362"
+  },
+  {
+    "path": "dist/site.webmanifest",
+    "bytes": 318,
+    "git_blob_sha": "886ba6bcf92e297ef52117cee512594ee2191c42"
+  },
+  {
+    "path": "dist/icon-192.png",
+    "bytes": 31472,
+    "git_blob_sha": "13bda5d1a0a6b9001ccc0355c0756574b4de9a14"
+  },
+  {
+    "path": "dist/robots.txt",
+    "bytes": 126,
+    "git_blob_sha": "fc7cd39d88133a919621cc9dc1725378e60a037a"
+  },
+  {
+    "path": "dist/favicon.ico",
+    "bytes": 11741,
+    "git_blob_sha": "3fef3a7374f081424823069041450b9b119b08f3"
+  },
+  {
+    "path": "dist/privacy.html",
+    "bytes": 3188,
+    "git_blob_sha": "5103aed6b5e5759396d7d3884fd5ee00d7cad908"
+  },
+  {
+    "path": "dist/index.html",
+    "bytes": 14335,
+    "git_blob_sha": "57159194152b98f20510d55b33bbc3beb1ac8970"
+  },
+  {
+    "path": "dist/content.json",
+    "bytes": 11156,
+    "git_blob_sha": "76c3cf05425494f61c495d79904c19738276a0bd"
+  },
+  {
+    "path": "dist/style.css",
+    "bytes": 38716,
+    "git_blob_sha": "d46ba24d3b3cabd86ecd7a12604b209e21d5f57c"
+  },
+  {
+    "path": "dist/apple-touch-icon.png",
+    "bytes": 27617,
+    "git_blob_sha": "669cc994fd8400e26f0d2082f579ab21376ef192"
+  },
+  {
+    "path": "dist/logos/minimax.webp",
+    "bytes": 4188,
+    "git_blob_sha": "4410a13ad0318dcafe0d759e9f6d4bc4d417eed7"
+  },
+  {
+    "path": "dist/logos/midjourney.png",
+    "bytes": 10235,
+    "git_blob_sha": "094c72d173bff375a4cd09fae49a530d15d31ece"
+  },
+  {
+    "path": "dist/logos/seedance.ico",
+    "bytes": 15406,
+    "git_blob_sha": "3f71136488a6206e886f4c335850b32dc69b6b62"
+  },
+  {
+    "path": "dist/logos/higgsfield.svg",
+    "bytes": 1839,
+    "git_blob_sha": "21c8ce4cc5b163c908ff1a412c8391361b525597"
+  },
+  {
+    "path": "dist/logos/elevenlabs.svg",
+    "bytes": 3446,
+    "git_blob_sha": "736842c3b54f62144a2acfbaa93ec3f01cd768fb"
+  },
+  {
+    "path": "dist/logos/comfyui.png",
+    "bytes": 3387,
+    "git_blob_sha": "3a394c71f0089f60bba6fe1d8e26254039bb110c"
+  },
+  {
+    "path": "dist/logos/chatgpt.svg",
+    "bytes": 1570,
+    "git_blob_sha": "ebbdab0ecf9c844b8c20d25e9115c06f9332d3c2"
+  },
+  {
+    "path": "dist/logos/kling.png",
+    "bytes": 3766,
+    "git_blob_sha": "d8935f0c4cd5938c64c4223f069f19c5c046eaec"
+  },
+  {
+    "path": "dist/logos/runway.png",
+    "bytes": 10069,
+    "git_blob_sha": "206ab7f4c877e81e3a90d02c63901c4103ad2449"
+  },
+  {
+    "path": "dist/logos/suno.png",
+    "bytes": 3209,
+    "git_blob_sha": "a8d0f4f8733b062d7db29c097c5cc84193837f34"
+  },
+  {
+    "path": "dist/logos/adobepremierepro.svg",
+    "bytes": 993,
+    "git_blob_sha": "c3440c12d76a5e397e3f84be9c335a7dd0ad8917"
+  },
+  {
+    "path": "dist/logos/davinciresolve.svg",
+    "bytes": 1775,
+    "git_blob_sha": "a5d5d340306d6422119905b079be0756f0a1229b"
+  },
+  {
+    "path": "dist/logos/flow.png",
+    "bytes": 41183,
+    "git_blob_sha": "e851c4ed1ba7a425a502cf7369b896b3bfdc207c"
+  },
+  {
+    "path": "dist/logos/blender.svg",
+    "bytes": 1294,
+    "git_blob_sha": "511377f4528f0cfc9a4ca0b71b3dfa511a5b3408"
+  },
+  {
+    "path": "dist/films/vice-city-dreams.html",
+    "bytes": 3189,
+    "git_blob_sha": "16f6f7ef18ea1d816a5b26627dfb6a95c280ec71"
+  },
+  {
+    "path": "dist/films/rooftop-after-dark.html",
+    "bytes": 3119,
+    "git_blob_sha": "264a84efdbbd64a11e6233d0c7d83ff10f741ecc"
+  },
+  {
+    "path": "dist/films/storylab-brand-ad.html",
+    "bytes": 2932,
+    "git_blob_sha": "d0f4b08fa845d4f93d16504a9427dc22582370e9"
+  },
+  {
+    "path": "dist/films/navyug-public-school.html",
+    "bytes": 3159,
+    "git_blob_sha": "f98b2e22806cb6bc6dcde957a3cba97c0c3dc569"
+  },
+  {
+    "path": "dist/films/a-story-of-us.html",
+    "bytes": 2657,
+    "git_blob_sha": "76732dae25d5e8500df813a74ebfaea628cbd1d2"
+  },
+  {
+    "path": "dist/films/lyon-weaved-bowler-bag.html",
+    "bytes": 3287,
+    "git_blob_sha": "47d36cd420af30d1d8fb3e9f3dc7f9435ca99b77"
+  },
+  {
+    "path": "dist/films/saat-din-baki.html",
+    "bytes": 2958,
+    "git_blob_sha": "0f14d0e1d00b94e5f25d6fa9cf4db541cd5b3271"
+  },
+  {
+    "path": "dist/films/ek-darwaza-do-duniya.html",
+    "bytes": 3031,
+    "git_blob_sha": "20ac08d78f621188f7bbd7daacf860b0c41cc0b7"
+  },
+  {
+    "path": "dist/films/last-bus-creative.html",
+    "bytes": 3060,
+    "git_blob_sha": "79bd1423aef3a2494c6bcc283315436fa541ca06"
+  },
+  {
+    "path": "dist/films/makeout-x.html",
+    "bytes": 2719,
+    "git_blob_sha": "109b56dbaf09496e77120b2d7305853971976dfb"
+  },
+  {
+    "path": "dist/films/memory-walk.html",
+    "bytes": 2733,
+    "git_blob_sha": "2eabb027dd729c5cde43d7bbc052fea7786e5755"
+  },
+  {
+    "path": "dist/films/ferrari-f40-velvet.html",
+    "bytes": 2907,
+    "git_blob_sha": "422df92ff63b0ae9a820713ece383b9ac1da7e90"
+  },
+  {
+    "path": "dist/films/maggi-two-minute-story.html",
+    "bytes": 3117,
+    "git_blob_sha": "347eff84508274ee89312589861f480a57563b16"
+  },
+  {
+    "path": "dist/media/navyug-public-school-poster.jpg",
+    "bytes": 134489,
+    "git_blob_sha": "a6d5acb445c6fb15c2aee1569bf9c1173cd3b226"
+  },
+  {
+    "path": "dist/media/ek-darwaza-do-duniya-poster.jpg",
+    "bytes": 42565,
+    "git_blob_sha": "6160db24aa3abf2b0f559747231152028d93804d"
+  },
+  {
+    "path": "dist/media/makeout-x.mp4",
+    "bytes": 6343365,
+    "git_blob_sha": "b384e4b325109904b1ce5a4bb504b305470ea43f"
+  },
+  {
+    "path": "dist/media/warm-floop-background.mp3",
+    "bytes": 1500335,
+    "git_blob_sha": "b5cfeb95a0a9468b94d23b9a79ce1ddba18654af"
+  },
+  {
+    "path": "dist/media/last-bus-creative-poster.jpg",
+    "bytes": 115401,
+    "git_blob_sha": "9b2267a74ef5b71aae7eb6f55c8e9925be32de64"
+  },
+  {
+    "path": "dist/media/owner-portrait-square.png",
+    "bytes": 2311361,
+    "git_blob_sha": "48aa87364c6fdd8d70034a966d43be84c75dff88"
+  },
+  {
+    "path": "dist/media/rooftop-after-dark-poster.jpg",
+    "bytes": 173416,
+    "git_blob_sha": "c859fdd99e256f251abf7848869219d82e8ccdeb"
+  },
+  {
+    "path": "dist/media/vice-city-dreams.mp4",
+    "bytes": 17163260,
+    "git_blob_sha": "9aeb2c4e7ec2330f049740606096e790f747050c"
+  },
+  {
+    "path": "dist/media/storylab-brand-ad.mp4",
+    "bytes": 8148269,
+    "git_blob_sha": "f813564cc973ebbe1d50fc16ccf6879119a4f0a9"
+  },
+  {
+    "path": "dist/media/hero-poster.jpg",
+    "bytes": 33216,
+    "git_blob_sha": "51ab97ad6617ecb3e5d83b6973ad49b7a828d980"
+  },
+  {
+    "path": "dist/media/hero.mp4",
+    "bytes": 2364241,
+    "git_blob_sha": "1813559be383aa4db34f791e2192af0f16b03ad7"
+  },
+  {
+    "path": "dist/media/maggi-two-minute-story.mp4",
+    "bytes": 15129644,
+    "git_blob_sha": "85e5ee8af8459507d7b1aafffc5f21ba72ca8901"
+  },
+  {
+    "path": "dist/media/lyon-weaved-bowler-bag-poster.jpg",
+    "bytes": 128557,
+    "git_blob_sha": "cc1410d85b1f0a68c622a59dc8ced4f74fd6c3bd"
+  },
+  {
+    "path": "dist/media/prewedding-poster.jpg",
+    "bytes": 98563,
+    "git_blob_sha": "48b42897d5bd9e9276fef784f9773fa299ea2cd0"
+  },
+  {
+    "path": "dist/media/storylab-brand-poster.jpg",
+    "bytes": 77895,
+    "git_blob_sha": "b72f70a439e2f2c67dd9930e528d08f459e11d7b"
+  },
+  {
+    "path": "dist/media/makeout-x-poster.jpg",
+    "bytes": 40182,
+    "git_blob_sha": "f9cf844f9a4c99eba721f9468f122793f075bd10"
+  },
+  {
+    "path": "dist/media/Vansh-Rastogi-Resume.pdf",
+    "bytes": 92993,
+    "git_blob_sha": "960ad0912f4f1341974630e23056d75d4aa3c06a"
+  },
+  {
+    "path": "dist/media/prewedding.mp4",
+    "bytes": 20845677,
+    "git_blob_sha": "af3f11a01034438b6f4854e37ca8a0e8126c292b"
+  },
+  {
+    "path": "dist/media/memory-walk-web.mp4",
+    "bytes": 15436003,
+    "git_blob_sha": "3e67031c336139f83e2895633f340b42e6581735"
+  },
+  {
+    "path": "dist/media/ek-darwaza-do-duniya.mp4",
+    "bytes": 6902657,
+    "git_blob_sha": "3ae6e2a37dfbe8969f22ec13ff3c622cb297a369"
+  },
+  {
+    "path": "dist/media/makeout-x-hd.mp4",
+    "bytes": 15411474,
+    "git_blob_sha": "e62e9db20ff48666ef906b4045fe69eba1394395"
+  },
+  {
+    "path": "dist/media/hero-loop-5s.mp4",
+    "bytes": 1288283,
+    "git_blob_sha": "e4243f05276a19257b81c1d271275c2bdf06d114"
+  },
+  {
+    "path": "dist/media/vansh-rastogi-logo.png",
+    "bytes": 243164,
+    "git_blob_sha": "7e1f499e94a4ef798091cd53d2689ed32922ff97"
+  },
+  {
+    "path": "dist/media/ferrari-f40-velvet.mp4",
+    "bytes": 16365970,
+    "git_blob_sha": "6d497d738617c851990cec0199175c7e8c72b2ac"
+  },
+  {
+    "path": "dist/media/lyon-weaved-bowler-bag.mp4",
+    "bytes": 19787609,
+    "git_blob_sha": "4fba681a4a566c3986abea6e1cd5ab6add8b3986"
+  },
+  {
+    "path": "dist/media/red-background.png",
+    "bytes": 2837946,
+    "git_blob_sha": "374c4dde7c944129c844f95ce6b4d93949f9c8e5"
+  },
+  {
+    "path": "dist/media/owner-portrait-premium.png",
+    "bytes": 2222576,
+    "git_blob_sha": "75aeb033d2e74ef896b234a1382a673a65d4d1d0"
+  },
+  {
+    "path": "dist/media/ambient-score.mp3",
+    "bytes": 481220,
+    "git_blob_sha": "0b95fde0f744d51d64a6934ee1ea40980d5684be"
+  },
+  {
+    "path": "dist/media/saat-din-baki-poster.jpg",
+    "bytes": 80894,
+    "git_blob_sha": "d531a8409bb2f32e5900ada2c62942dcec193701"
+  },
+  {
+    "path": "dist/media/navyug-public-school.mp4",
+    "bytes": 19583741,
+    "git_blob_sha": "49d0f18486e3905f484cf9b72691f0c7ff8cfe97"
+  },
+  {
+    "path": "dist/media/memory-walk-poster.jpg",
+    "bytes": 112989,
+    "git_blob_sha": "b9609f68f44daf26a64399cc78c8dc172ce6bd6a"
+  },
+  {
+    "path": "dist/media/saat-din-baki-trailer.mp4",
+    "bytes": 19907529,
+    "git_blob_sha": "4527c124fd77084f1c52e5c0b55e8a7ba41e0a25"
+  },
+  {
+    "path": "dist/media/ferrari-f40-poster.jpg",
+    "bytes": 250350,
+    "git_blob_sha": "31b3b3213143d97674901b89943110aa5c09c128"
+  },
+  {
+    "path": "dist/media/vice-city-dreams-poster.jpg",
+    "bytes": 146824,
+    "git_blob_sha": "f2038180fe7f513244b525c556113fd62876daf7"
+  },
+  {
+    "path": "dist/media/maggi-two-minute-story-poster.jpg",
+    "bytes": 91512,
+    "git_blob_sha": "40f6227b849546d397ec0d9ce0f0ccd7cf81403d"
+  },
+  {
+    "path": "dist/media/owner-portrait.png",
+    "bytes": 2749292,
+    "git_blob_sha": "92399165c0f9f8accdf23419ec0db9f778aa5b8e"
+  },
+  {
+    "path": "dist/media/ek-darwaza-do-duniya-hd.mp4",
+    "bytes": 13322830,
+    "git_blob_sha": "134c980d40eaed09e12586b6e542ebd75abfb918"
+  },
+  {
+    "path": "dist/media/rooftop-after-dark.mp4",
+    "bytes": 4841975,
+    "git_blob_sha": "2a9755c0bf9110f15e9974dc69caf4a5c3053346"
+  },
+  {
+    "path": "dist/media/last-bus-creative.mp4",
+    "bytes": 11051027,
+    "git_blob_sha": "24b967fb3c16a7a961d171c70e86275e4987275e"
+  }
+]
