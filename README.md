@@ -1,6 +1,10 @@
 # Vansh Rastogi — AI Filmmaking Portfolio
 
-Complete source and local assets for the portfolio. This private repository is the GitHub copy used for future updates and external deployment.
+Complete source and local assets for the portfolio. This public repository is the GitHub copy used for future updates and external deployment.
+
+## GitHub Pages
+
+Pushes to `main` deploy automatically through `.github/workflows/pages.yml`. `scripts/build_pages.py` prepares `_site` with the current Pages URL for media paths, canonical/OG metadata, JSON-LD, sitemap and the contact redirect. Set Pages source to GitHub Actions. The repository name `vanshxrastogi.github.io` serves the portfolio at the root URL.
 
 ## Run or deploy
 
@@ -31,8 +35,9 @@ This is a buildless static website. Publish the `dist` directory. No dependency 
 Edit the source and project metadata together. When adding a film, preserve the original aspect ratio, add its video and cover to `dist/media`, add the project to `dist/content.json`, and update its film page and sitemap. Keep GitHub commits in `main` synchronized with authorized site edits. This is a source backup, not a background sync service.
 
 Current Sites project: `appgprj_6acf0970201481919c9d1084debee296`.
-Current site: https://vansh-rastogi-film.unscriptedstorylab.chatgpt.site/
-GitHub: https://github.com/vanshxrastogi/vansh-rastogi-portfolio
+Primary GitHub Pages site: https://vanshxrastogi.github.io/
+Original Sites deployment: https://vansh-rastogi-film.unscriptedstorylab.chatgpt.site/
+GitHub: https://github.com/vanshxrastogi/vanshxrastogi.github.io
 
 Before switching to a new live domain, update canonical/OG URLs, JSON-LD, sitemap/robots URLs and the contact form `_next` destination. The contact form sends through FormSubmit to `vanshrastogimvm@gmail.com`; one-time email activation is required.
 
