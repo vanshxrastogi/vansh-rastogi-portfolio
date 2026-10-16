@@ -229,6 +229,67 @@
       "poster": "https://vansh-rastogi-film.unscriptedstorylab.chatgpt.site/media/goju-cricket-poster.jpg",
       "description": "An independent AI cricket concept film with stadium action and sports storytelling. Presented as creative portfolio work; no official endorsement is implied.",
       "status": "published"
+    },
+    {
+      "id": "room-4-ai-voice-experiment",
+      "title": "Room 4 — ElevenLabs Concept",
+      "category": "AI COMMERCIALS",
+      "role": "Creative Direction & AI Filmmaking",
+      "duration": "01:18",
+      "aspectRatio": "4:3",
+      "video": "https://drive.google.com/file/d/1pj9SpiN8NAlknU0TA8qjKg6fMqhXC4x8/view",
+      "poster": "/media/room-4-ai-voice-experiment-poster.jpg",
+      "description": "An independent AI voice concept featuring an interrogation scene and an emotional voice-performance montage, ending with an ElevenLabs concept endcard. Creative portfolio work; no official brand affiliation or commissioned campaign is implied.",
+      "status": "published",
+      "embedUrl": "https://drive.google.com/file/d/1pj9SpiN8NAlknU0TA8qjKg6fMqhXC4x8/preview"
+    },
+    {
+      "id": "kisper-ultra-desert-adventure",
+      "title": "Kisper Ultra — Desert Adventure",
+      "category": "BRAND FILMS",
+      "role": "Creative Direction & Product Storytelling",
+      "duration": "01:27",
+      "aspectRatio": "16:9",
+      "video": "https://drive.google.com/file/d/1Bu3BnBiP0MclLV1hhMyXtU813dUD1no7/view",
+      "poster": "/media/kisper-ultra-desert-adventure-poster.jpg",
+      "description": "An independent cinematic product concept following a desert adventure into a Kisper Ultra product reveal. Creative portfolio work; no official brand affiliation or commissioned campaign is implied.",
+      "status": "published",
+      "embedUrl": "https://drive.google.com/file/d/1Bu3BnBiP0MclLV1hhMyXtU813dUD1no7/preview"
+    },
+    {
+      "id": "buddha-english-full-film",
+      "title": "Buddha — English Full Film",
+      "category": "ORIGINAL FILMS",
+      "role": "Full Film",
+      "contentType": "Full Film",
+      "duration": "08:59",
+      "durationSeconds": 539.2,
+      "aspectRatio": "304:45",
+      "width": 7296,
+      "height": 1080,
+      "video": "https://drive.google.com/file/d/1eL9c4Wf32G59qiuxF_r-gtzqdTF0lc6a/view",
+      "embedUrl": "https://drive.google.com/file/d/1eL9c4Wf32G59qiuxF_r-gtzqdTF0lc6a/preview",
+      "poster": "/media/buddha-english-full-film-poster.jpg",
+      "description": "An English-language full film titled Buddha, presented in its complete edit and original panoramic format.",
+      "status": "published",
+      "language": "English"
+    },
+    {
+      "id": "kherashwar-mahadev-trailer",
+      "title": "Kherashwar Mahadev — Trailer",
+      "category": "ORIGINAL FILMS",
+      "role": "Trailer",
+      "contentType": "Trailer",
+      "duration": "02:24",
+      "durationSeconds": 143.88,
+      "aspectRatio": "16:9",
+      "width": 3840,
+      "height": 2160,
+      "video": "https://drive.google.com/file/d/148oXkN6AUPFKPfkUbd3OcsjmZ1ucGdw2/view",
+      "embedUrl": "https://drive.google.com/file/d/148oXkN6AUPFKPfkUbd3OcsjmZ1ucGdw2/preview",
+      "poster": "/media/kherashwar-mahadev-trailer-poster.jpg",
+      "description": "The trailer for Kherashwar Mahadev, presented in its complete edit and original 16:9 format.",
+      "status": "published"
     }
   ],
   "services": [
@@ -372,6 +433,9 @@
     "saat-din-baki"
   ],
   "projectOrder": [
+    "buddha-english-full-film",
+    "kherashwar-mahadev-trailer",
+    "room-4-ai-voice-experiment",
     "dubai-creative-film",
     "maggi-two-minute-story",
     "memory-walk",

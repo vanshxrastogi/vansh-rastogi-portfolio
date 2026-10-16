@@ -95,6 +95,10 @@ body .work-grid .film-info{padding:14px}.film-info h3,.portrait-grid .film-info 
 body *,body *::before,body *::after{font-family:Inter,Arial,sans-serif!important}
 
 /* Curated first impression: full-frame films, quiet gold details, compact type. */
+/* Put the opening film directly against the header, with no decorative strip. */
+body #home.hero{padding-top:0;margin-top:0}
+body #home #hero-media{margin-top:0;order:0}
+body #home .hero-top{display:none}
 #featured.featured-collection{position:relative;padding:40px 5% 44px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:radial-gradient(ellipse at 8% 0,#63324826,transparent 56%),linear-gradient(120deg,#21141de8,#170f16ed)}
 #featured.featured-collection:before{content:'';position:absolute;top:-1px;left:5%;width:72px;height:2px;background:var(--lime);pointer-events:none}
 .featured-heading,.featured-grid{max-width:1440px;margin-inline:auto}

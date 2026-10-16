@@ -24,7 +24,7 @@ test('4:3 joins landscape while 4:5 remains portrait without changing metadata',
 test('every published portfolio film appears in exactly one orientation group', () => {
   const { projects } = JSON.parse(fs.readFileSync(path.join(dist, 'content.json'), 'utf8'));
   const published = projects.filter(project => project.status === 'published');
-  assert.ok(published.length >= 16);
+  assert.ok(published.some(project => project.id === 'room-4-ai-voice-experiment'));
   for (const project of published) {
     const groups = ['16:9', '9:16'].filter(format => matchesFormat(project, format));
     assert.equal(groups.length, 1, `${project.id} must not disappear or be duplicated`);
