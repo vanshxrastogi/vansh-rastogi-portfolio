@@ -56,7 +56,8 @@
       "video": "/media/prewedding.mp4",
       "poster": "/media/prewedding-poster.jpg",
       "description": "A cinematic pre-wedding shoot.",
-      "status": "published"
+      "status": "published",
+      "featuredDescription": "A cinematic pre-wedding story, told through wide landscapes and intimate moments."
     },
     {
       "id": "ferrari-f40-velvet",
@@ -68,7 +69,8 @@
       "video": "/media/ferrari-f40-velvet.mp4",
       "poster": "/media/ferrari-f40-poster.jpg",
       "description": "A conceptual CGI automotive advertisement with a velvet-red visual treatment.",
-      "status": "published"
+      "status": "published",
+      "featuredDescription": "A sculptural automotive concept in a rich velvet-red visual world."
     },
     {
       "id": "storylab-brand-ad",
@@ -92,7 +94,8 @@
       "video": "/media/saat-din-baki-trailer.mp4",
       "poster": "/media/saat-din-baki-poster.jpg",
       "description": "सात दिन बाकी — Part 1 of a vertical micro-drama.",
-      "status": "published"
+      "status": "published",
+      "featuredDescription": "Part 1 of an original vertical micro-drama. A story designed for the close-up."
     },
     {
       "id": "makeout-x",
@@ -362,5 +365,19 @@
     "CGI & PRODUCT",
     "REELS"
   ],
-  "instagramReels": []
+  "instagramReels": [],
+  "featuredProjectIds": [
+    "a-story-of-us",
+    "ferrari-f40-velvet",
+    "saat-din-baki"
+  ],
+  "projectOrder": [
+    "dubai-creative-film",
+    "maggi-two-minute-story",
+    "memory-walk",
+    "goju-travel",
+    "goju-cricket",
+    "makeout-x",
+    "lyon-weaved-bowler-bag"
+  ]
 }

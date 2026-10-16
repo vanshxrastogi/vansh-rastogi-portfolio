@@ -1,7 +1,8 @@
-// Repeat the short studio opening on each page load; keep the page usable on failure.
+// Show the short studio opening once per session; keep direct film links immediate.
 (() => {
   const reduced = matchMedia('(prefers-reduced-motion: reduce)');
-  if (reduced.matches || document.visibilityState === 'hidden') return;
+  if (reduced.matches || document.visibilityState === 'hidden' || location.hash.startsWith('#project/')) return;
+  try { if (sessionStorage.getItem('vr-intro-seen')) return; sessionStorage.setItem('vr-intro-seen','1'); } catch {}
   const overlay = document.createElement('div');
   overlay.className = 'studio-intro';
   overlay.tabIndex = -1;
