@@ -190,6 +190,42 @@
       "poster": "/media/lyon-weaved-bowler-bag-poster.jpg",
       "description": "An AI-created UGC-style product ad for the Classicuir Lyon Weaved Bowler Bag, showcasing the woven finish, everyday styling and interior details.",
       "status": "published"
+    },
+    {
+      "id": "dubai-creative-film",
+      "title": "Dubai — Creative Film",
+      "category": "REELS",
+      "role": "Creative Direction & AI Filmmaking",
+      "duration": "01:24",
+      "aspectRatio": "16:9",
+      "video": "https://vansh-rastogi-film.unscriptedstorylab.chatgpt.site/media/dubai-creative-film.mp4",
+      "poster": "https://vansh-rastogi-film.unscriptedstorylab.chatgpt.site/media/dubai-creative-film-poster.jpg",
+      "description": "An independent creative film exploring desert drives and the Dubai skyline through cinematic AI visuals. Personal creative work, not a commissioned advertisement.",
+      "status": "published"
+    },
+    {
+      "id": "goju-travel",
+      "title": "Goju — Travel Concept Film",
+      "category": "BRAND FILMS",
+      "role": "Creative Direction & AI Filmmaking",
+      "duration": "01:08",
+      "aspectRatio": "16:9",
+      "video": "https://vansh-rastogi-film.unscriptedstorylab.chatgpt.site/media/goju-travel.mp4",
+      "poster": "https://vansh-rastogi-film.unscriptedstorylab.chatgpt.site/media/goju-travel-poster.jpg",
+      "description": "An independent AI travel concept film following an airport journey. Presented as creative portfolio work; no official brand partnership is implied.",
+      "status": "published"
+    },
+    {
+      "id": "goju-cricket",
+      "title": "Goju — Cricket Concept Film",
+      "category": "BRAND FILMS",
+      "role": "Creative Direction & AI Filmmaking",
+      "duration": "00:58",
+      "aspectRatio": "9:16",
+      "video": "https://vansh-rastogi-film.unscriptedstorylab.chatgpt.site/media/goju-cricket.mp4",
+      "poster": "https://vansh-rastogi-film.unscriptedstorylab.chatgpt.site/media/goju-cricket-poster.jpg",
+      "description": "An independent AI cricket concept film with stadium action and sports storytelling. Presented as creative portfolio work; no official endorsement is implied.",
+      "status": "published"
     }
   ],
   "services": [
