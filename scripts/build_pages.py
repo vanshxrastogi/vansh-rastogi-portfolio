@@ -23,7 +23,9 @@ def build(source=Path('dist'), destination=Path('_site'), site_url=None):
         if not path.is_file() or path.suffix not in text_types:
             continue
         text = path.read_text(encoding='utf-8')
-        text = re.sub(re.escape(LEGACY) + '|' + re.escape(PRIMARY), lambda _: site_url, text)
+        # Sites-hosted media remains external; page and canonical URLs stay portable.
+        site_hosts = re.escape(LEGACY) + r'(?!/media/)' + '|' + re.escape(PRIMARY)
+        text = re.sub(site_hosts, lambda _: site_url, text)
         if base:
             if path.suffix == '.html':
                 text = re.sub(r'''(\b(?:href|src|poster|action)=["'])/(?!/)''', lambda m: m[1] + base + '/', text)
@@ -68,3 +70,4 @@ def configure_adsense(destination):
 
 if __name__ == '__main__':
     build()
+
