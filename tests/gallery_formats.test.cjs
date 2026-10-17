@@ -30,3 +30,14 @@ test('every published portfolio film appears in exactly one orientation group', 
     assert.equal(groups.length, 1, `${project.id} must not disappear or be duplicated`);
   }
 });
+
+test('original films occupy the dedicated cinema shelf exactly once', () => {
+ const collection = app.match(/function matchesCollection\(project,collection\)\{[^}]+\}/)[0];
+ const match = vm.runInNewContext(helper[0] + ';(' + collection + ')');
+ const {projects} = JSON.parse(fs.readFileSync(path.join(dist,'content.json'),'utf8'));
+ for(const p of projects.filter(p=>p.status==='published')){
+  const shelves=['cinema','16:9','9:16'].filter(s=>match(p,s));
+  assert.equal(shelves.length,1,p.id);
+  if(p.category==='ORIGINAL FILMS') assert.deepEqual(shelves,['cinema']);
+ }
+});
