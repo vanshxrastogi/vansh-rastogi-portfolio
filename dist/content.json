@@ -237,11 +237,10 @@
       "role": "Creative Direction & AI Filmmaking",
       "duration": "01:18",
       "aspectRatio": "4:3",
-      "video": "https://drive.google.com/file/d/1pj9SpiN8NAlknU0TA8qjKg6fMqhXC4x8/view",
+      "video": "/media/elevenlabs-room-4.mp4",
       "poster": "/media/room-4-ai-voice-experiment-poster.jpg",
       "description": "An independent AI voice concept featuring an interrogation scene and an emotional voice-performance montage, ending with an ElevenLabs concept endcard. Creative portfolio work; no official brand affiliation or commissioned campaign is implied.",
-      "status": "published",
-      "embedUrl": "https://drive.google.com/file/d/1pj9SpiN8NAlknU0TA8qjKg6fMqhXC4x8/preview"
+      "status": "published"
     },
     {
       "id": "kisper-ultra-desert-adventure",
